@@ -24,9 +24,7 @@ Este repositorio contiene un script interactivo que instala y configura automát
    Alternativamente puedes ejecutar de la siguiente manera.
    sudo bash install_zabbix_agent.sh
 
-2. **Aternativa**
+2. **Aternativa para la ejecución**
    ```bash
    sudo bash install_zabbix_agent.sh
-
-
    
