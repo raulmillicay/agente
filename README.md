@@ -15,16 +15,3 @@ Este repositorio contiene scripts de instalación automática del **Zabbix Agent
 Cada carpeta contiene su propio `README.md` con instrucciones paso a paso.
 
 ---
-
-## 🚀 Instrucciones rápidas
-
-### Linux
-
-```bash
-git clone https://github.com/raulmillicay/agente.git
-cd agente/linux
-chmod +x install_zabbix_agent.sh
-sudo ./install_zabbix_agent.sh
-
-Alternativamente puedes ejecutar de la siguiente manera.
-sudo bash install_zabbix_agent.sh
