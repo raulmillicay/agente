@@ -21,8 +21,6 @@ Este repositorio contiene un script interactivo que instala y configura automát
    cd /agente/linux
    chmod +x install_zabbix_agent.sh
    sudo ./install_zabbix_agent.sh
-   Alternativamente puedes ejecutar de la siguiente manera.
-   sudo bash install_zabbix_agent.sh
 
 2. **Aternativa para la ejecución**
    ```bash
