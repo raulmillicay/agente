@@ -24,5 +24,6 @@ Este repositorio contiene un script interactivo que instala y configura automát
 
 2. **Aternativa para la ejecución**
    ```bash
+   git clone https://github.com/raulmillicay/agente.git
+   cd /agente/linux
    sudo bash install_zabbix_agent.sh
-   
